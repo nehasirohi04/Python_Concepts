@@ -1,0 +1,37 @@
+| Theme                           | Focus                                                              |
+| ------------------------------- | ------------------------------------------------------------------ |
+| 1. 🧱 Core Python Mastery       | `collections`, `itertools`, `functools`, `datetime`, `random`      |
+| 2. 📊 Data Handling             | File I/O, JSON, CSV, APIs, regex                                   |
+| 3. 🧮 OOP & Design              | Classes, inheritance, encapsulation, dunder methods                |
+| 4. 🔄 Iterators & Generators    | Build custom iterables, lazy evaluation                            |
+| 5. 🧪 Testing & Debugging       | `pytest`, `unittest`, `logging`, profiling                         |
+| 6. 🧰 Libraries                 | Pick 10: `requests`, `beautifulsoup`, `pandas`, `matplotlib`, etc. |
+| 7. 🧠 Algorithms                | Searching, sorting, recursion, dynamic programming                 |
+| 8. 🕸 Web Scraping & APIs       | Scrape + parse, interact with public APIs                          |
+| 9. 🧩 Projects                  | 10 mini-projects that tie together multiple skills                 |
+| 10. 🧼 Clean Code & Refactoring | Rewrite old code with best practices, typing, docs                 |
+
+Week 1: Core Python
+
+Day 1: collections.Counter for word frequency
+
+Day 2: defaultdict phone book
+
+Day 3: namedtuple to structure data
+
+Day 4: itertools permutations generator
+
+Day 5: functools.lru_cache Fibonacci
+
+Day 6: datetime scheduler
+
+Day 7: Random password generator
+
+Day 8: CLI dice simulator using random
+
+Day 9: eval()/exec() sandbox safely
+
+Day 10: Wrap-up + README + push
+
+
+https://chatgpt.com/share/6894f247-4534-8005-b285-dd391e0e7756
