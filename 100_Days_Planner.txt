@@ -10,28 +10,3 @@
 | 8. 🕸 Web Scraping & APIs       | Scrape + parse, interact with public APIs                          |
 | 9. 🧩 Projects                  | 10 mini-projects that tie together multiple skills                 |
 | 10. 🧼 Clean Code & Refactoring | Rewrite old code with best practices, typing, docs                 |
-
-Week 1: Core Python
-
-Day 1: collections.Counter for word frequency
-
-Day 2: defaultdict phone book
-
-Day 3: namedtuple to structure data
-
-Day 4: itertools permutations generator
-
-Day 5: functools.lru_cache Fibonacci
-
-Day 6: datetime scheduler
-
-Day 7: Random password generator
-
-Day 8: CLI dice simulator using random
-
-Day 9: eval()/exec() sandbox safely
-
-Day 10: Wrap-up + README + push
-
-
-https://chatgpt.com/share/6894f247-4534-8005-b285-dd391e0e7756
